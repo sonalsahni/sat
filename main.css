@@ -1,0 +1,11 @@
+.punchline{    color: green}
+
+.line { color:green}
+
+.direction {color:green}
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
